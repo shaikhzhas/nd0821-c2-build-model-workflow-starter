@@ -567,3 +567,7 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+/Users/zhas/anaconda3/envs/nyc_airbnb_dev/bin/mlflow
+/Users/zhas/anaconda3/envs/nyc_airbnb_dev/bin/wandb
+/Users/zhas/anaconda3/envs/nyc_airbnb_dev/bin/jupyter notebook
